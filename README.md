@@ -14,7 +14,7 @@
 I am a Full Stack Developer :fax: from London.
 - :seedling: I’m currently learning JavaScript.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
-- :mailbox: Reach me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amina-jiwa-08644220b/)
+- :mailbox: Reach me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amina-jiwa-08644220b/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -32,7 +32,9 @@ I am a Full Stack Developer :fax: from London.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaJiwa)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!---
