@@ -4,7 +4,7 @@
 </h1>
 <div id="badges">
 Connect with me
-   <a href="[your-linkedin-URL](https://www.linkedin.com/in/amina-jiwa-08644220b/)">
+   <a href="https://www.linkedin.com/in/amina-jiwa-08644220b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
