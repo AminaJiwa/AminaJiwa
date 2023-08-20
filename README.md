@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -15,6 +16,7 @@ I am a Full Stack Developer :fax: from London.
 - :seedling: I’m currently learning JavaScript.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
 - :mailbox: Reach me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amina-jiwa-08644220b/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,7 +36,7 @@ I am a Full Stack Developer :fax: from London.
 ---
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaJiwa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaJiwa&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
