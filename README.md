@@ -3,10 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
-  Connect with me
-  <a href="https://www.linkedin.com/in/amina-jiwa-08644220b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  Connect with me <pre> </pre>
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amina-jiwa-08644220b/)
 </div>
 
 ---
@@ -15,7 +13,7 @@
 I am a Full Stack Developer :fax: from London.
 - :seedling: I’m currently learning JavaScript.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
-- :mailbox: Reach me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amina-jiwa-08644220b/)
+- :mailbox: Reach me on LinkedIn 
 
 ---
 
