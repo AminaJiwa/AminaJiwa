@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer :fax: from London.
+I am a software developer :fax: from London.
 - :seedling: I’m currently learning JavaScript.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
 - :mailbox: Reach me on LinkedIn 
