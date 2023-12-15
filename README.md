@@ -12,7 +12,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+About Me :
 I am a software developer :fax: from London.
 - :seedling: I’m currently learning JavaScript.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
