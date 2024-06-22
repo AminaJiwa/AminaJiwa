@@ -14,7 +14,7 @@
 
 About Me :
 I am a software developer :fax: from London.
-- :seedling: I’m currently learning JavaScript.
+- :seedling: I’m currently learning Spring Boot.
 - :sparkling_heart: I’m looking to collaborate on anything. If you have any advice, criticism or questions please don't hesitate to reach out :)
 - :mailbox: Reach me on LinkedIn 
 
